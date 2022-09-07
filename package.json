@@ -3,9 +3,18 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0",
-    "react-router-dom": "^6.3.0"
+    "@babel/core": "7.19.0",
+    "@emotion/react": "11.10.4",
+    "@emotion/styled": "11.10.4",
+    "@mui/material": "5.10.3",
+    "@popperjs/core": "2.11.6",
+    "@types/react": "18.0.18",
+    "bootstrap": "^5.2.0",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "18.2.0",
+    "react-popper": "2.3.0",
+    "react-router-dom": "6.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
